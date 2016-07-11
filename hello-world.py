@@ -1,4 +1,4 @@
 input = raw_input("Enter input: ")
 
-# Write the second line of outpu
+# Write the output
 print(input)
